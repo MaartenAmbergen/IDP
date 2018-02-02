@@ -1,0 +1,34 @@
+.lamp_uit
+{
+    text-align: center;
+    width: 35%;
+    font-size: 30px;
+    margin:0 auto;
+    display: block;
+}
+
+.lamp_aan
+{
+    text-align: center;
+    width: 35%;
+    font-size: 30px;
+    margin:0 auto;
+    display: block;
+}
+
+.House_text
+{
+    text-align: center;
+    color: white;
+}
+
+.logout_button
+{
+    float: right;
+    display: block;
+}
+
+.login 
+{
+    color: white;
+}
